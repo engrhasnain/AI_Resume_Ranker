@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.env
+.env*
+
+# FastAPI/Uvicorn
+*.log
+
+# Node/React
+node_modules/
+dist/
+build/
+.next/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Supabase (if you export config)
+.supabase/
